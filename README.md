@@ -1,6 +1,6 @@
 # Image Gallery
 
-I have crafted a photo gallery using HTML for personal skill development.
+I have crafted a photo gallery using HTML for personal skill development. In this I have include some photos of cars, college, faculty, phones etc.
 
 ![ig1](https://github.com/user-attachments/assets/ee4d0ec3-c303-4ec5-b39e-54500313def8)
 
